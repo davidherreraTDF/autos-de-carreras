@@ -1,2 +1,2 @@
-# autos-de-carreras
+# ejercicio-autos-de-carreras
 Created with CodeSandbox
